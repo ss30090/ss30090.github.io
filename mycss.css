@@ -1,0 +1,14 @@
+h1 {
+    color: #36ff91;
+}
+.c1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    padding: 20px 10px 5px 30px;
+}
+.c2{
+    width: 40px;
+    height: 50px;
+    background-color: #ff6de3;
+}
