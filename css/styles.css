@@ -10840,7 +10840,7 @@ html {
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgb(0 45 137 / 70%);
 }
 .navbar-custom .navbar-brand {
   text-transform: uppercase;
