@@ -8081,7 +8081,7 @@ textarea.form-control-lg {
 
 .text-white {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+  color: #261b5a;
 }
 
 .text-body {
@@ -8167,7 +8167,7 @@ textarea.form-control-lg {
 
 .bg-black {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #5790f6;
 }
 
 .bg-white {
@@ -10860,7 +10860,8 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  /*background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);*/
+  background-image: url("https://imgur.com/HBcfqzP.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
